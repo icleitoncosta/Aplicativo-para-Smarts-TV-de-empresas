@@ -14,4 +14,5 @@ Não é um aplicativo pronto para sua Smart TV (seja ela Samsung, LG ou outras),
 # Referências?
 
 [A Casa da Estampa](https://www.facebook.com/ACasadaEstampa/?ref=br_rs)
+
 [Gráfica Interativa](http://www.graficainterativa.com/)
